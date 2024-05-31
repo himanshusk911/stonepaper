@@ -1,0 +1,30 @@
+.resultDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5px;
+    width: 300px;
+    background-color:darkslateblue;
+    height: 300px;
+    border-radius: 5px;
+}
+.result{
+    display: flex;
+    margin-bottom: 5px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 70px;
+}
+.myFont{
+    margin-top: 5px;
+    color: white;
+    font-size: larger;
+}
+.resultDiv button{
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: burlywood;
+    color:antiquewhite;
+}

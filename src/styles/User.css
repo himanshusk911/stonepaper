@@ -1,0 +1,27 @@
+.actionDiv{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    background-color:darkslateblue;
+    height: 300px;
+    border-radius: 15px;
+}
+.actionDiv p{
+    margin-top: 15px;
+}
+.action{
+    margin-top: 50px;
+    display: flex;
+  
+   justify-content: space-between;
+   width: 100%;
+   height:100%
+}
+.myAction{
+    width: 150px;
+    height: 70px;
+    color: burlywood;
+}
